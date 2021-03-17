@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center"><a href="https://github.com/farhan0651"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/octofez.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/mummytocat.gif" height="160px" width="160px"> </p>
@@ -7,10 +5,10 @@
 ### Hey there, I'm Farhan 👋
 
 <!-- [![twitter badge](https://img.shields.io/badge/twitter-_p0lar_bear-0077b5?style=social&logo=twitter)](https://twitter.com/_p0lar_bear) -->
-[![linkedin badge](https://img.shields.io/badge/linkedin-yashk2000-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/farhan-khan-b31687170)
-<!-- [![blog badge](https://img.shields.io/badge/blog-yashk2000.github.io/blog-1f425f?style=social)](https://yashk2000.github.io/blog)
+[![linkedin badge](https://img.shields.io/badge/linkedin-farhan0651-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/farhan-khan-b31687170)
+<!-- [![blog badge](https://img.shields.io/badge/blog-yashk2000.github.io/blog-1f425f?style=social)](https://yashk2000.github.io/blog)-->
 
-![](https://komarev.com/ghpvc/?username=yashk2000) -->
+<!--![](https://komarev.com/ghpvc/?username=yashk2000) -->
 
 <!-- - 👨‍💻 I'm currently working on figuring out how machines actually learn and building the GitLit.  -->
 <!-- - :robot: I’m currently working on teaching computers how to do stuff. -->

@@ -12,9 +12,9 @@
 
 <!-- - 👨‍💻 I'm currently working on figuring out how machines actually learn and building the GitLit.  -->
 <!-- - :robot: I’m currently working on teaching computers how to do stuff. -->
-- 🙇‍♂️ I'm currently into learning about web development learning, react and have recently started exploring android development.
+- 🙇‍♂️ I'm currently into learning about web development, react and have recently started exploring android development.
 <!-- - 💬 Ask me about open source, computer vision, machine learning, android development, flutter development and communities. -->
-- 📫 How to reach me: Send an email to me at [fk912254@gmail.com](mailto:fk912254@gmail.com) or ping me on Telegram, [@farhan0_912](https://t.me/farhan_912).
+- 📫 How to reach me: Send an email to me at [fk912254@gmail.com](mailto:fk912254@gmail.com) or ping me on Telegram, [@farhan_912](https://t.me/farhan_912).
 - 😄 Pronouns: he/him/his
 <!-- - ⚡ Fun fact: I use a laptop with a cracked screen. -->
 

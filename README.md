@@ -5,7 +5,9 @@
 ### Hey there, I'm Farhan 👋
 
 <!-- [![twitter badge](https://img.shields.io/badge/twitter-_p0lar_bear-0077b5?style=social&logo=twitter)](https://twitter.com/_p0lar_bear) -->
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/farhan0651)
 [![linkedin badge](https://img.shields.io/badge/linkedin-farhan0651-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/farhan-khan-b31687170)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=farhan0651.visitor-badge)](https://github.com/farhan0651)
 <!-- [![blog badge](https://img.shields.io/badge/blog-yashk2000.github.io/blog-1f425f?style=social)](https://yashk2000.github.io/blog)-->
 
 <!--![](https://komarev.com/ghpvc/?username=yashk2000) -->
